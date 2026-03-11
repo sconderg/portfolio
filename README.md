@@ -3,7 +3,6 @@
 A production-grade developer portfolio built with Next.js 16. It features a custom static Markdown blog system, dual-theme syntax highlighting, automated SEO optimization, and a highly polished framer-motion UI.
 
 ![Portfolio Preview](./public/preview.png)
-*(Note: Replace `preview.png` with an actual screenshot of the live site before publishing)*
 
 ## Live Demo
 
